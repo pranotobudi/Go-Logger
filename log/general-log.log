@@ -1,0 +1,8 @@
+General Logger:	2021/05/10 15:13:32 main.go:13: Starting..
+General Logger:	2021/05/10 15:13:32 main.go:16: Running Process 1
+General Logger:	2021/05/10 15:13:32 main.go:17: Running Process 2
+Error Logger:	2021/05/10 15:13:32 main.go:19: An Error Occured: Error abcd
+General Logger:	2021/05/10 15:13:32 main.go:21: Running Process i
+Error Logger:	2021/05/10 15:13:32 main.go:22: An Error Occured: Error efgh
+General Logger:	2021/05/10 15:13:32 main.go:23: Running Process n
+General Logger:	2021/05/10 15:13:32 main.go:26: Execution Completed..
